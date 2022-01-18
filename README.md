@@ -1,4 +1,4 @@
-## A Java Desktop Application For My University's Call Center Department 🎓☎️📝🖇
+## A Java Desktop Application For My University's Call Center Department 🎓☎️
 
 My college was going to be given a grant, or a scholarship, in which if the number of students working at the college exceeds a certain number, 
 my college would have received this grant/scholarship. Luckily the call center department for my college was hiring when I heard that jobs had opened up
