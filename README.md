@@ -1,5 +1,5 @@
 
-## A Java Desktop Application for My University's Call Center Department 🎓☎️
+## Java Desktop Application for My University's Call Center Department 🎓☎️
 
 My college was going to be given a grant, or a scholarship, in which if the number of students working at the college exceeds a certain number, 
 my college would received this grant or scholarship. Luckily, I was able to apply to the call center department for my college which resided and shared rooms in the same building as the web dev team in which the hiring manager decided that I could help out the web dev team since I was majoring in CS. Although, in the end, it was decided that instead, I could create an application for another manager who wanted to see if I could build an application that could automate data input into  Excel sheets, since at the time, the call center was using Microsoft Excel as a database. This manager had to manually create & modify different Excel files that took up about 3/5's of the their day to create and complete. My program helped automate and reduce the time it took to create these daily Excel data sheets that kept track of the university's employees work performances and stats.
